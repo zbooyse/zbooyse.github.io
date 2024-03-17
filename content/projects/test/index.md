@@ -8,4 +8,8 @@ type = "post"
 
 # Test
 
-Hello World!
+Hello World!{{<sub "[[1]](#references)">}}
+
+# References
+
+[1] blablabla
