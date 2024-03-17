@@ -1,0 +1,52 @@
+baseURL = "https://zbooyse.github.io"
+languageCode = "en-gb"
+title = "Zoe Booyse"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Zoe Booyse - All rights reserved"
+
+[params]
+    # logo = "/images/author.jpg"
+    description = "Portfolio"
+
+[params.author]
+    name = "Zoe Booyse"
+    thumbnail = "/images/author.jpg"
+    description = "Insert description here"
+
+[params.index]
+    picture = "/images/author.jpg"
+    title = "Zoe Booyse"
+    subtitle = "Insert subtitle here"
+    mdtext = "Something else here"
+    alertbar = true
+
+[params.social]
+    github = "zbooyse"
+
+# Menu
+
+[[menu.main]]
+    name = "Academia"
+    weight = 100
+    identifier = "academia"
+    url = "/academia"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 100
+    identifier = "projects"
+    url = "/projects"
+
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
+
+# Example for static pages
+# [[menu.main]]
+#     name = "Imprint"
+#     identifier = "imprint"
+#     weight = 200
+#     url = "/static/imprint"
