@@ -1,7 +1,7 @@
 +++
 title = 'Test'
 date = 2024-03-15
-draft = false
+draft = true
 tags = ["project", "test"]
 type = "post"
 +++
