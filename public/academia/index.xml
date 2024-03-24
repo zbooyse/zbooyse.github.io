@@ -7,21 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Zoe Booyse - All rights reserved</copyright>
-    <lastBuildDate>Thu, 21 Mar 2024 09:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/academia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dickens_signalman</title>
+      <link>http://localhost:1313/academia/dickens_signalman/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academia/dickens_signalman/</guid>
+      <description>The Haunting of the Derridean &amp;lsquo;Spectre&amp;rsquo; in &amp;ldquo;The Signalman&amp;rdquo; by Charles Dickens This essay was written during my study of the Ghosts, Haunting and Spectrality module at UEA.</description>
+    </item>
     <item>
       <title>Empathy and Literariness in Charles Darwin&#39;s *On the Origin of Species*</title>
       <link>http://localhost:1313/academia/origin_darwin/</link>
-      <pubDate>Thu, 21 Mar 2024 09:39:01 +0000</pubDate>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academia/origin_darwin/</guid>
-      <description>This essay was written during my study of the Victorian Writing module at UEA.&#xA;&amp;ldquo;Reading The Origin [of Species] is an act which involves you in a narrative experience.</description>
+      <description>This essay was written during my study of the Victorian Writing module at UEA. &amp;ldquo;Reading The Origin [of Species] is an act which involves you in a narrative experience.</description>
+    </item>
+    <item>
+      <title>Man Vs. Nature</title>
+      <link>http://localhost:1313/academia/john_clare/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academia/john_clare/</guid>
+      <description>Man Vs. Nature: Romantic Perspectives on Humans and Nature in both William Blake&amp;rsquo;s &amp;ldquo;Spring&amp;rdquo; and John Clare&amp;rsquo;s &amp;ldquo;Crows in Spring&amp;rdquo; This essay was written during my study of the Romanticism 1780-1840 module at UEA.</description>
     </item>
     <item>
       <title>The_uncanny</title>
       <link>http://localhost:1313/academia/the_uncanny/</link>
       <pubDate>Wed, 20 Mar 2024 18:12:04 +0000</pubDate>
       <guid>http://localhost:1313/academia/the_uncanny/</guid>
-      <description></description>
+      <description>On the Move: Exploring the Agency of the Uncanny [ Unheimlich ] in H. G. Wells&amp;rsquo; &amp;ldquo;The Red Room&amp;rdquo; </description>
     </item>
   </channel>
 </rss>
