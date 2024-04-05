@@ -1,6 +1,6 @@
 baseURL = "https://zbooyse.github.io"
 languageCode = "en-gb"
-title = "Zoe Booyse"
+title = "ZB"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Zoe Booyse - All rights reserved"
@@ -12,19 +12,25 @@ copyright = "Zoe Booyse - All rights reserved"
 [params.author]
     name = "Zoe Booyse"
     thumbnail = "/images/author.jpg"
-    description = "Insert description here"
+    description = "Author of this essay."
 
 [params.index]
     picture = "/images/author.jpg"
     title = "Zoe Booyse"
-    subtitle = "Insert subtitle here"
-    mdtext = "Something else here"
+    subtitle = "Explorer of All Things Literary"
+    mdtext = "Hi there, I am a third year English Literature and Drama student at the University of East Anglia. This website displays a selection of the essays that I have written during my time at UEA, as well as any other personal projects."
     alertbar = true
 
 [params.social]
     github = "zbooyse"
 
 # Menu
+
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 200
+    url = "/"
 
 [[menu.main]]
     name = "Academia"
@@ -38,11 +44,6 @@ copyright = "Zoe Booyse - All rights reserved"
     identifier = "projects"
     url = "/projects"
 
-[[menu.main]]
-    name = "About Me"
-    identifier = "about"
-    weight = 200
-    url = "/"
 
 # Example for static pages
 # [[menu.main]]

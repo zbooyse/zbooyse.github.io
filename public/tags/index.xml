@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Zoe Booyse</title>
+    <title>Tags on ZB</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Zoe Booyse</description>
+    <description>Recent content in Tags on ZB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Zoe Booyse - All rights reserved</copyright>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 11:30:04 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project</title>
       <link>http://localhost:1313/tags/project/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Apr 2024 11:30:04 +0100</pubDate>
       <guid>http://localhost:1313/tags/project/</guid>
       <description></description>
     </item>
@@ -21,6 +21,20 @@
       <link>http://localhost:1313/tags/test/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Victorian</title>
+      <link>http://localhost:1313/tags/victorian/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/victorian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romanticism</title>
+      <link>http://localhost:1313/tags/romanticism/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/romanticism/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,41 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zoe Booyse</title>
+    <title>ZB</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Zoe Booyse</description>
+    <description>Recent content on ZB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Zoe Booyse - All rights reserved</copyright>
-    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 17:43:58 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>dickens_signalman</title>
-      <link>http://localhost:1313/academia/dickens_signalman/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academia/dickens_signalman/</guid>
-      <description>The Haunting of the Derridean &amp;lsquo;Spectre&amp;rsquo; in &amp;ldquo;The Signalman&amp;rdquo; by Charles Dickens This essay was written during my study of the Ghosts, Haunting and Spectrality module at UEA.</description>
+      <title>Imprint</title>
+      <link>http://localhost:1313/static/imprint/</link>
+      <pubDate>Thu, 04 Apr 2024 17:43:58 +0100</pubDate>
+      <guid>http://localhost:1313/static/imprint/</guid>
+      <description>If I type that then what will happen?</description>
     </item>
     <item>
-      <title>Empathy and Literariness in Charles Darwin&#39;s *On the Origin of Species*</title>
-      <link>http://localhost:1313/academia/origin_darwin/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academia/origin_darwin/</guid>
-      <description>This essay was written during my study of the Victorian Writing module at UEA. &amp;ldquo;Reading The Origin [of Species] is an act which involves you in a narrative experience.</description>
-    </item>
-    <item>
-      <title>Man Vs. Nature</title>
-      <link>http://localhost:1313/academia/john_clare/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academia/john_clare/</guid>
-      <description>Man Vs. Nature: Romantic Perspectives on Humans and Nature in both William Blake&amp;rsquo;s &amp;ldquo;Spring&amp;rdquo; and John Clare&amp;rsquo;s &amp;ldquo;Crows in Spring&amp;rdquo; This essay was written during my study of the Romanticism 1780-1840 module at UEA.</description>
-    </item>
-    <item>
-      <title>The_uncanny</title>
-      <link>http://localhost:1313/academia/the_uncanny/</link>
-      <pubDate>Wed, 20 Mar 2024 18:12:04 +0000</pubDate>
-      <guid>http://localhost:1313/academia/the_uncanny/</guid>
-      <description>On the Move: Exploring the Agency of the Uncanny [ Unheimlich ] in H. G. Wells&amp;rsquo; &amp;ldquo;The Red Room&amp;rdquo; </description>
+      <title>&#39;Guardians of the Galaxy Vol. 3&#39; and Romanticism</title>
+      <link>http://localhost:1313/projects/gotg_rom/</link>
+      <pubDate>Thu, 04 Apr 2024 11:30:04 +0100</pubDate>
+      <guid>http://localhost:1313/projects/gotg_rom/</guid>
+      <description></description>
     </item>
     <item>
       <title>Test</title>
@@ -43,6 +29,41 @@
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/test/</guid>
       <description>Test Hello World![1]&#xA;References [1] blablabla</description>
+    </item>
+    <item>
+      <title>Dissertation: Issues of Authorship, Gender, and Selfhood in Charlotte Brontë&#39;s &#39;Jane Eyre&#39; and &#39;Villette&#39; </title>
+      <link>http://localhost:1313/academia/dissertation/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academia/dissertation/</guid>
+      <description>This dissertation was written under the supervsion of Cath Sharrock during my study of the Literature Dissertation Post-1789 module at UEA. Contents Introduction&#xA;Chapter One: Jane Eyre and the (Re)Clamation of the &amp;lsquo;Self&amp;rsquo;</description>
+    </item>
+    <item>
+      <title>On the Move: Exploring the Agency of the Uncanny in H. G. Wells&#39; &#39;The Red Room&#39;</title>
+      <link>http://localhost:1313/academia/the_uncanny/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academia/the_uncanny/</guid>
+      <description>This essay was written during my study of the Ghosts, Haunting and Spectrality module at UEA. [Uncanny] is a term used both to describe and create unease.</description>
+    </item>
+    <item>
+      <title>The Haunting of the Derridean Spectre in &#39;The Signalman&#39; by Charles Dickens</title>
+      <link>http://localhost:1313/academia/dickens_signalman/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academia/dickens_signalman/</guid>
+      <description>This essay was written during my study of the Ghosts, Haunting and Spectrality module at UEA. Here is – or rather there is, over there, an unnameable or almost unnameable thing: something, between something and someone, anyone or anything[1]</description>
+    </item>
+    <item>
+      <title>Empathy and Literariness in Charles Darwin&#39;s &#39;On the Origin of Species&#39; </title>
+      <link>http://localhost:1313/academia/origin_darwin/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academia/origin_darwin/</guid>
+      <description>This essay was written during my study of the Victorian Writing module at UEA. Reading &amp;lsquo;The Origin [of Species]&amp;rsquo; is an act which involves you in a narrative experience.</description>
+    </item>
+    <item>
+      <title>Man Vs. Nature: Romantic Perspectives on Humans and Nature in William Blake&#39;s &#39;Spring&#39; and John Clare&#39;s &#39;Crows in Spring&#39;</title>
+      <link>http://localhost:1313/academia/john_clare/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academia/john_clare/</guid>
+      <description>This essay was written during my study of the Romanticism 1780-1840 module at UEA. On thy stupendous summit, rock sublime! […] I would recline, while Fancy should go forth (Charlotte Smith, &amp;ldquo;Beachy Head,&amp;rdquo; l.</description>
     </item>
   </channel>
 </rss>

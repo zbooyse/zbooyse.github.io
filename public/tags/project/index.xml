@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project on Zoe Booyse</title>
+    <title>Project on ZB</title>
     <link>http://localhost:1313/tags/project/</link>
-    <description>Recent content in Project on Zoe Booyse</description>
+    <description>Recent content in Project on ZB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Zoe Booyse - All rights reserved</copyright>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 11:30:04 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;Guardians of the Galaxy Vol. 3&#39; and Romanticism</title>
+      <link>http://localhost:1313/projects/gotg_rom/</link>
+      <pubDate>Thu, 04 Apr 2024 11:30:04 +0100</pubDate>
+      <guid>http://localhost:1313/projects/gotg_rom/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Test</title>
       <link>http://localhost:1313/projects/test/</link>
